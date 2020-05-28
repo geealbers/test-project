@@ -1,52 +1,51 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://gettypubs.github.io/quire-starter/</loc>
+    <loc>https://geealbers.github.io/test-project/</loc>
   </url>
   
   <url>
-    <loc>https://gettypubs.github.io/quire-starter/contents/</loc>
+    <loc>https://geealbers.github.io/test-project/contents/</loc>
   </url>
   
   <url>
-    <loc>https://gettypubs.github.io/quire-starter/intro/</loc>
+    <loc>https://geealbers.github.io/test-project/intro/</loc>
   </url>
   
   <url>
-    <loc>https://gettypubs.github.io/quire-starter/essay/</loc>
+    <loc>https://geealbers.github.io/test-project/essay/</loc>
   </url>
   
   <url>
-    <loc>https://gettypubs.github.io/quire-starter/catalogue/</loc>
+    <loc>https://geealbers.github.io/test-project/catalogue/</loc>
   </url>
   
   <url>
-    <loc>https://gettypubs.github.io/quire-starter/catalogue/1/</loc>
+    <loc>https://geealbers.github.io/test-project/catalogue/1/</loc>
   </url>
   
   <url>
-    <loc>https://gettypubs.github.io/quire-starter/catalogue/2/</loc>
+    <loc>https://geealbers.github.io/test-project/catalogue/2/</loc>
   </url>
   
   <url>
-    <loc>https://gettypubs.github.io/quire-starter/catalogue/3/</loc>
+    <loc>https://geealbers.github.io/test-project/catalogue/3/</loc>
   </url>
   
   <url>
-    <loc>https://gettypubs.github.io/quire-starter/catalogue/4/</loc>
+    <loc>https://geealbers.github.io/test-project/catalogue/4/</loc>
   </url>
   
   <url>
-    <loc>https://gettypubs.github.io/quire-starter/bibliography/</loc>
+    <loc>https://geealbers.github.io/test-project/bibliography/</loc>
   </url>
   
   <url>
-    <loc>https://gettypubs.github.io/quire-starter/contributors/</loc>
+    <loc>https://geealbers.github.io/test-project/contributors/</loc>
   </url>
   
   <url>
-    <loc>https://gettypubs.github.io/quire-starter/about/</loc>
+    <loc>https://geealbers.github.io/test-project/about/</loc>
   </url>
   
 </urlset>
