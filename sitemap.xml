@@ -1,51 +1,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>test-project/</loc>
+    <loc>https://geealbers.github.io/test-project/</loc>
   </url>
   
   <url>
-    <loc>test-project/contents/</loc>
+    <loc>https://geealbers.github.io/test-project/contents/</loc>
   </url>
   
   <url>
-    <loc>test-project/intro/</loc>
+    <loc>https://geealbers.github.io/test-project/intro/</loc>
   </url>
   
   <url>
-    <loc>test-project/essay/</loc>
+    <loc>https://geealbers.github.io/test-project/essay/</loc>
   </url>
   
   <url>
-    <loc>test-project/catalogue/</loc>
+    <loc>https://geealbers.github.io/test-project/catalogue/</loc>
   </url>
   
   <url>
-    <loc>test-project/catalogue/1/</loc>
+    <loc>https://geealbers.github.io/test-project/catalogue/1/</loc>
   </url>
   
   <url>
-    <loc>test-project/catalogue/2/</loc>
+    <loc>https://geealbers.github.io/test-project/catalogue/2/</loc>
   </url>
   
   <url>
-    <loc>test-project/catalogue/3/</loc>
+    <loc>https://geealbers.github.io/test-project/catalogue/3/</loc>
   </url>
   
   <url>
-    <loc>test-project/catalogue/4/</loc>
+    <loc>https://geealbers.github.io/test-project/catalogue/4/</loc>
   </url>
   
   <url>
-    <loc>test-project/bibliography/</loc>
+    <loc>https://geealbers.github.io/test-project/bibliography/</loc>
   </url>
   
   <url>
-    <loc>test-project/contributors/</loc>
+    <loc>https://geealbers.github.io/test-project/contributors/</loc>
   </url>
   
   <url>
-    <loc>test-project/about/</loc>
+    <loc>https://geealbers.github.io/test-project/about/</loc>
   </url>
   
 </urlset>
